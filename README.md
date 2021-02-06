@@ -1,4 +1,4 @@
-<h1 align="center">Gardara Customer Client</h1><br>
+<h1 align="center">My Top Nine (Client & Server)</h1><br>
 
 ## About The Project
 
