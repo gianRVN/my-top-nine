@@ -8,7 +8,7 @@ My Top Nine is a web-based single page application (SPA) developed using React.j
 ## Deployment 
 
 My Top Nine is deployed using one server and one clients. Link deployment: 
-* [my-top-nine)]() (not ready yet)
+* [my-top-nine]() (not ready yet)
 * Server is using PostrgreSQL from Heroku
 
 
